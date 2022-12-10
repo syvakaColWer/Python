@@ -1,0 +1,10 @@
+Serbin 25000
+Kolokolov 15000
+Petrov 22000
+Sidorov 35000
+Anikeev 11000
+Sarychev 26000
+Ahmetov 19000
+Kozlov 20000
+Ivanov 21000
+Maskov 24000
